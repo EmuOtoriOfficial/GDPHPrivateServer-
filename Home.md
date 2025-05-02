@@ -10,3 +10,4 @@ A sort of small guide on how to do stuff in the private server, You can go jump 
 * Zyann for modding the shit out of GD just for the private server
 * CeeJay for Custom Geode Icon
 * haroldcc and Chelaizaa for creating a bot
+* LianeCagara for UI
